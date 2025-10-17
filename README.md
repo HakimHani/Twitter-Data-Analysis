@@ -1,2 +1,2 @@
 # Twitter-Data-Analysis
-This repo was created as part of a project in Big Data  course. All the instructions are available in the a3.pdf 
+This project is inspired by a fourth-year Computer Science program project. I independently developed and implemented it to explore concepts in distributed systems and text analytics. The work was completed entirely as an individual effort driven by my interest in large-scale/stream data processing. 
